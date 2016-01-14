@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            笃行谊
+tagline:          '盛年不重来，一日难再晨。及时当勉励，岁月不待人。'
+description:      '盛年不重来，一日难再晨。及时当勉励，岁月不待人。'
+url:              http://yinime.github.com
+
+author:
+  name:           'yinime'
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/yinime/yinime.github.com
