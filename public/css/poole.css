@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Microsoft YaHei", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -278,6 +278,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 3rem;
 }
 .masthead-title {
+  font-size:1.7em;
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
@@ -286,7 +287,7 @@ tbody tr:nth-child(odd) th {
   color: #505050;
 }
 .masthead-title small {
-  font-size: 75%;
+  font-size: 70%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
