@@ -28,6 +28,11 @@
  <!-- mathjax config similar to math.stackexchange -->
   <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
+    "HTML-CSS":{
+      styles:{
+        ".MathJax .mo, .MathJax .mi":{color:"black !important"}
+      }
+    }
     tex2jax: {
       inlineMath: [ ['$', '$'] ],
       displayMath: [ ['$$', '$$']],
