@@ -1,7 +1,7 @@
 ﻿---
 date: 2016-10-25 17:27
 layout: post
-title: 《统计学习方法》笔记
+title: 统计学习方法笔记
 thread: 0
 categories: 笔记
 tags: 数据
