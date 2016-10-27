@@ -6,7 +6,9 @@ thread: 0
 categories: 笔记
 tags: 数据
 ---
-第一章
+
+
+###第一章
 
 **统计学习方法：**
 	· 从训练数据（training data）（给定的、有限的集合）出发，
