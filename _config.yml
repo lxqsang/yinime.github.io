@@ -10,10 +10,10 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            笃行谊
-tagline:          '盛年不重来，一日难再晨。及时当勉励，岁月不待人。'
-description:      '盛年不重来，一日难再晨。及时当勉励，岁月不待人。'
-url:              http://yinime.github.com
+title:            清心斋
+tagline:          '我心素已闲，清川澹如此。'
+description:      '我心素已闲，清川澹如此。'
+url:              https://yinime.github.io
 
 author:
   name:           'yinime'
@@ -24,4 +24,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/yinime/yinime.github.com
+  repo:           https://github.com/yinime/yinime.github.io
