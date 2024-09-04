@@ -13,7 +13,7 @@ permalink:        pretty
 title:            清心斋
 tagline:          '我心素已闲，清川澹如此。'
 description:      '我心素已闲，清川澹如此。'
-url:              https://yinime.github.io
+url:              https://lxqsang.github.io
 
 author:
   name:           'yinime'
@@ -24,4 +24,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/yinime/yinime.github.io
+  repo:           https://github.com/lxqsang/yinime.github.io
